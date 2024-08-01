@@ -15,11 +15,12 @@ This repo contains following contents
   10.arrayinserting.java
   11.arraydeletion.java
 
- // 12.arrayfunctions.pdf
+  12.arrayfunctions1.pdf
+  13.arrayfunctions2.pdf
 
 2.queue
-  1.queuelineardynamic.java
-  2.queuelinearstatic.java
+  14.queuelineardynamic.java
+  15.queuelinearstatic.java
      
 3.stack
-  1.stackdynamic.java
+  16.stackdynamic.java
