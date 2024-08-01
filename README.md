@@ -24,3 +24,6 @@ This repo contains following contents
      
 3.stack
   16.stackdynamic.java
+  17.stackstatic.java
+
+  18.stack.pdf
