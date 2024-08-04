@@ -27,3 +27,4 @@ This repo contains following contents
   17.stackstatic.java
 
   18.stack.pdf
+  19stack_theory_1.pdf
